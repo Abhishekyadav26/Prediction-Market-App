@@ -4,7 +4,7 @@ Unlock the power of decentralized forecasting with our state-of-the-art Predicti
 
 ## link for mantle testnet explorer:-
 
- [here](https://sepolia.lineascan.build/address/0x602dE67fF398aD22c8509db40914A89e9c889A2b)
+ [here](https://explorer.sepolia.mantle.xyz/address/0xB4acCD9e79d8Bbc932398399500718b509329658)
 
 ### contract address :- 0xB4acCD9e79d8Bbc932398399500718b509329658
 
