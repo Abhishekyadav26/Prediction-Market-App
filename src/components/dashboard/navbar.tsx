@@ -1,12 +1,13 @@
 import { ConnectButton, lightTheme } from "thirdweb/react";
 import { client } from "@/app/client";
 import { defineChain } from "thirdweb/chains";
+import Link from "next/link";
 
 export function Navbar() {
     
     return (
         <div className="flex justify-between items-center mb-6">
-            <h1 className="text-2xl font-bold">Prediction Market</h1>
+            <h1 className="text-2xl font-bold"><Link href="./">Prediction Market</Link></h1>
             <div className="items-center flex gap-2">
                 <ConnectButton 
                     client={client} 
